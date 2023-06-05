@@ -8,11 +8,12 @@ Repository of all the course AI course files for future references
 3. DA-MLOPS
 4. DA-TF DEVELOPER
 5. IBM-AI ENGINEER
-6. IMPERIAL-TF 2
-7. MICHIGAN-PYTHON STATISTICS
+6. 
+7. 
 8. PS-PREPARING DATA FOR ML
-9. UDEMY-DRF
+9. 
 10. UDEMY-PYSPARK
+11. UDEMY-DRF
 
 ### Tools
 1. Python
