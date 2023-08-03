@@ -10,7 +10,7 @@ Repository of all the AI course files for future references
 5. DA-DL: Deep Learning Specialization - DeepLearning.AI
 6. *DA-MLOPS: Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI
 7. *DA-MATH FOR ML DS: Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-8. *UDEMY-PYTHON FOR DS ML: Python for Data Science and Machine Learning Bootcamp - Udemy
+8. UDEMY-PYTHON FOR DS ML: Python for Data Science and Machine Learning Bootcamp - Udemy
 9. DA-ML: Machine Learning Specialization - DeepLearning.AI, Stanford
 10. UDEMY-PYSPARK: PySpark Essentials for Data Scientists (Big Data + Python) - Udemy
 11. DA-CHATGPT: ChatGPT Prompt Engineering for Developers - DeepLearning.AI, OpenAI
