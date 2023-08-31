@@ -3,25 +3,25 @@
 Repository of all the AI course files for future references
 
 ### Main Courses
-1. AI ENGINEER - IBM: IBM AI Engineering Professional Certificate - IBM
-2. TF DEVELOPER - DA: DeepLearning.AI TensorFlow Developer Specialization - DeepLearning.AI
-3. PYTORCH - UDEMY: PyTorch for Deep Learning in 2023: Zero to Mastery - Udemy
-4. [INCOMPLETE] NLP - DA: Natural Language Processing Specialization - DeepLearning.AI
-5. DL - DA: Deep Learning Specialization - DeepLearning.AI
-6. [INCOMPLETE] MLOPS - DA: Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI
-7. MATH FOR ML AND DS - DA: Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
-8. PYTHON FOR DS ML - UDEMY: Python for Data Science and Machine Learning Bootcamp - Udemy
-9. ML - DA: Machine Learning Specialization - DeepLearning.AI, Stanford
-10. [INCOMPLET] PYSPARK - UDEMY: PySpark Essentials for Data Scientists (Big Data + Python) - Udemy
-11. DRF - UDEMY: Django Rest Framework - Udemy
-12. SK LEARN - YT: Scikit-learn course - YouTube
-13. MATPLOTLIB - YT: Matplotlib course - YouTube
+1. [AI ENGINEER - IBM: IBM AI Engineering Professional Certificate - IBM](<1. AI ENGINEER - IBM>)
+2. [TF DEVELOPER - DA: DeepLearning.AI TensorFlow Developer Specialization - DeepLearning.AI](<2. TF DEVELOPER - DA>)
+3. [PYTORCH - UDEMY: PyTorch for Deep Learning in 2023: Zero to Mastery - Udemy](<3. PYTORCH - UDEMY>)
+4. [INCOMPLETE] [NLP - DA: Natural Language Processing Specialization - DeepLearning.AI](<4. NLP - DA>)
+5. [DL - DA: Deep Learning Specialization - DeepLearning.AI](<5. DL - DA>)
+6. [INCOMPLETE] [MLOPS - DA: Machine Learning Engineering for Production (MLOps) Specialization - DeepLearning.AI](<6. MLOPS - DA>)
+7. [MATH FOR ML AND DS - DA: Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI](<7. MATH FOR ML AND DS - DA>)
+8. [PYTHON FOR DS ML - UDEMY: Python for Data Science and Machine Learning Bootcamp - Udemy](<8. PYTHON FOR DS ML - UDEMY>)
+9. [ML - DA: Machine Learning Specialization - DeepLearning.AI, Stanford](<9. ML - DA>)
+10. [INCOMPLET] [PYSPARK - UDEMY: PySpark Essentials for Data Scientists (Big Data + Python) - Udemy](<10. PYSPARK - UDEMY>)
+11. [DRF - UDEMY: Django Rest Framework - Udemy](<11. DRF - UDEMY>)
+12. [SK LEARN - YT: Scikit-learn course - YouTube](<12. SK LEARN - YT>)
+13. [MATPLOTLIB - YT: Matplotlib course - YouTube](<13. MATPLOTLIB - YT>)
 
 ### Short Courses
-1. CHATGPT PROMPT ENG - DA: ChatGPT Prompt Engineering for Developers - DeepLearning.AI, OpenAI
-2. GEN AII APPLICATIONS WITH GRADIO - DA: Building Generative AI Application with Gradio - Deeplearning.AI, HuggingFace
-3. FINETUNING LLM - DA: Finetuning LLM - Deeplearning.AI
-4. LLMS WITH SEMANTIC SEARCH - DA: Large Language Models with Semantic Search - Deeplearning.AI, Cohere
+1. [CHATGPT PROMPT ENG - DA: ChatGPT Prompt Engineering for Developers - DeepLearning.AI, OpenAI](<SHORT COURSES/1. CHATGPT PROMPT ENG - DA>)
+2. [GEN AII APPLICATIONS WITH GRADIO - DA: Building Generative AI Application with Gradio - Deeplearning.AI, HuggingFace](<SHORT COURSES/2. GEN AI APPLICATIONS WITH GRADIO - DA>)
+3. [FINETUNING LLM - DA: Finetuning LLM - Deeplearning.AI](<SHORT COURSES/3. FINETUNING LLM - DA>)
+4. [LLMS WITH SEMANTIC SEARCH - DA: Large Language Models with Semantic Search - Deeplearning.AI, Cohere](<SHORT COURSES/4. LLMS WITH SEMANTIC SEARCH - DA>)
 
 
 ### Tools
