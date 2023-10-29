@@ -165,3 +165,6 @@ models/
 runs/
 
 .vscode
+
+# os files
+.DS_store
